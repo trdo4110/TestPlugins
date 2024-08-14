@@ -48,10 +48,7 @@ For local plugin testing, you need to grant the app "All Files Access" on newer 
 
 
 ## License
-import requests
-url = "https://recloudstream.github.io/devs/scraping/"
-response = requests.get(url)
-print(response.text)  # Prints the readme
+
 
 Everything in this repo is released into the public domain. You may use it however you want with no conditions whatsoever
 
